@@ -1,0 +1,11 @@
+{
+  "name": "amednones_61611145_laboratorio9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amed Nones Laboratorio",
+  "license": "ISC"
+}
